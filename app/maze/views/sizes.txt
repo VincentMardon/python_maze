@@ -1,0 +1,8 @@
+
+Tailles des labyrinthes
+|
+|  1 - Petits (26 X 13)
+|  2 - Moyens (53 X 25)
+|  3 - Grands (101 X 43){0}
+|
+Entrez le chiffre correspondant : 

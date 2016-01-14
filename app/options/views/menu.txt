@@ -1,0 +1,10 @@
+
+Menu des options
+|
+| S - Vos statistiques
+| L - Liste des labyrinthes
+| C - Comment jouer ?
+|
+| ENTREE - Retour au menu principal
+|
+Sélectionnez une lettre : 

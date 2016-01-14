@@ -1,0 +1,6 @@
+{0}
+            +-------------------+
+            |       ROBOC       |
+            +-------------------+
+{1}
+Veuillez saisir votre pseudo (ou créez-en un) : 

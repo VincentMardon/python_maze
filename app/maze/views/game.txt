@@ -1,0 +1,11 @@
+
+{0}
+
+Informations
+|
+|  $ ramassés : {1}
+|  déplacements : {2}
+|
+|  Q - Quitter la partie et retour au menu principal
+|
+Où souhaitez-vous vous déplacer ? 

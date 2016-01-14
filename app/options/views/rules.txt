@@ -1,0 +1,54 @@
+
+Roboc est un jeu de labyrinthe.
+
+Comme tout jeu de labyrinthe, le but est ... de trouver la sortie.
+Seulement, vous réaliserez très vite que la sortie n'est pas si dure à trouver. Loin de là !
+
+Le principal but de Roboc est de ramasser un maximum d'argent ($).
+Mais attention votre score final sera calculé en fonction du nombre de cases que vous aurez parcourues pour amasser un maximum de $.
+
+Les tailles de labyrinthes ne définissent en aucun cas la difficulté (même si le nombre de déplacements influence le score en fonction
+de la taille du labyrinthe). Soyez donc vigilant !
+
+Votre personnage est représenté par un « X ».
+Chaque labyrinthe comporte des portes symbolisées par un ou deux « . ».
+Ces portes ne modifient pas le déplacement de votre personnage, elles sont justes là pour brouiller un peu les pistes.
+La sortie est représentée par un « O ».
+Les $ rapportent toujours 10 points.
+Dans tous les cas sortir du labyrinthe vous rapporte 20 points.
+Il ne peut pas y avoir de score négatif.
+Si votre score est à 0, il y reste tant que vous ne ramassez pas de $ ou que vous ne sortez pas du labyrinthe.
+Pour les déplacements un diviseur est défini selon la taille de votre labyrinthe.
+Le score sera donc défini selon ce calcul : nb de $ - nb de déplacements / diviseur.
+
+Les diviseurs de déplacements sont les suivants :
+
+  - 10 pour les petites tailles
+  - 5 pour les tailles moyennes
+  - 2 pour les grandes tailles
+
+Pour les déplacements vous définissez la direction selon certaines lettres :
+
+  - N pour le nord
+  - E pour l'est
+  - S pour le sud
+  - O pour l'ouest
+
+Il est également possible de faire suivre cette lettre par un nombre définissant le nombre de cases de déplacement.
+Par exemple, si vous entrez « N5 », vous indiquez que vous souhaitez vous déplacer de 5 cases vers le Nord.
+
+Comptez bien vos cases si vous ne voulez pas recevoir de vilains messages rouges !
+
+Vous avez de plus la possibilité de repartir à zéro en saisissant la touche R (pour Recharger ou Reload).
+Vous pouvez également quitter le jeu à tout moment en pressant la touche Q. Ce qui aura pour effet de vous rediriger vers le menu
+principal.
+Votre partie sera sauvegardée en l'état et vous pourrez reprendre votre labyrinthe, si vous le souhaitez, là où vous vous êtes arrêté.
+Dans tous les cas votre partie se sauvegarde à chaque déplacement valide.
+
+Pour les créateurs en herbe, un dossier 4_custom se situe dans le répertoire data/maps/. Vous pouvez y ajouter les labyrinthes de votre
+cru ! Respectez les codes du jeu : « - », « _ » et « + » pour les obstacles, ainsi que les caractères sus-cités pour le bon fonctionnement
+de votre labyrinthe.
+
+Bon jeu !
+
+Appuyer sur ENTREE pour revenir au menu des options : 

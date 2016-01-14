@@ -1,0 +1,27 @@
+
+Votre nom : {0}
+
+Score total : {1}
+Parties jouées : {2}
+
+Meilleurs scores par labyrinthes
+
+- Petite tailles :
+
+    1 - Welcome : {3}
+    2 - Two Ways : {4}
+    3 - The Vault : {5}
+
+- Moyennes tailles :
+
+    1 - Ride : {6}
+    2 - Right or Left : {7}
+    3 - The Bank : {8}
+
+- Grandes tailles :
+
+    1 - Round Trip : {9}
+    2 - The Pyramid : {10}
+    3 - Fort Knox : {11}
+
+Appuyez sur ENTREE pour revenir au menu des options : 
